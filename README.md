@@ -1,2 +1,2 @@
-# Dynamic-RNN-based-PyTorch
-Implementation of dynamic rnn based on pytorch
+#LSTM-based-PyTorch
+Implementation of LSTM based on pytorch
