@@ -1,2 +1,2 @@
-# LSTM-based-PyTorch
-Implementation of LSTM based on pytorch
+# RNN-based-PyTorch
+Implementation of RNN based on pytorch
